@@ -254,7 +254,6 @@ footer p{
 
     #descricao-do-evento{
         padding: 100px 15px;
-        background-image: var(--cor-fundo-primaria); 
     }
 
     #empresas-participantes{
@@ -286,7 +285,6 @@ footer p{
 
     #dias-do-evento{
         padding: 50px 0;
-        background-color: var(--cor-fundo-primaria);
       
     }
 
