@@ -80,7 +80,7 @@ body{
 #introducao{
     padding: 200px 0;
     width: 100%;
-    background:  url("https://www.sp.senac.br/documents/297735/297737/cas_externa4-2800px.jpg/db76ca6d-e211-5ca4-ea14-8b78f953ac5f?version=1.0") no-repeat fixed center;
+    background: url("https://www.sp.senac.br/documents/297735/297737/cas_externa4-2800px.jpg/db76ca6d-e211-5ca4-ea14-8b78f953ac5f?version=1.0") no-repeat fixed center;
 }
 
 #cursos-engenharia{
@@ -108,7 +108,7 @@ body{
 
 #descricao-do-evento{
     padding: 100px 150px;
-    background: url("https://www.sp.senac.br/documents/297735/297737/Biblioteca1.jpg/7d808973-0ede-7027-0f43-338a32f66176?version=1.0&t=1614185987139null&download=true") no-repeat fixed center;
+    background: url("https://www.sp.senac.br/documents/297735/297737/Biblioteca1.jpg/7d808973-0ede-7027-0f43-338a32f66176?version=1.0&t=1614185987139null") no-repeat fixed center;
     background-size: 100%
     
 }
@@ -158,7 +158,7 @@ body{
 #dias-do-evento{
     padding: 50px 0;
     /* background: url("https://www.sp.senac.br/documents/20125/45323/3625_01-01-2023_297750117.jpg/b0bf4823-43fb-f224-7ed0-f52681f770ee?version=1.0&t=1662929486416null&download=true") no-repeat fixed center; */
-    background: url(https://www.sp.senac.br/documents/20125/0/infra_cas.png/403d059e-869e-9964-3337-a0db42650e97?t=1646428305504&download=true) no-repeat fixed center;
+    background: url(https://www.sp.senac.br/documents/20125/0/infra_cas.png/403d059e-869e-9964-3337-a0db42650e97?t=1646428305504) no-repeat fixed center;
     background-size: 100%;
 }
 
