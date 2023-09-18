@@ -215,6 +215,7 @@ header figure{
 #entre-em-contato {
     padding: 50px 150px;
     text-align: center;
+    background-color: var(--cor-fundo-secundaria);
 }
 
 #entre-em-contato li {
