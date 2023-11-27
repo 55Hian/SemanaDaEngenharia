@@ -246,6 +246,12 @@ footer p{
     width: 100%;
 }
 
+.eventos figure{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
 .sala{
     display: flex;
     justify-content: right;
