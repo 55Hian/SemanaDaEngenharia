@@ -166,15 +166,17 @@ body{
 
 .container-dias-do-evento {
     display: flex;
-    align-items: center;
+    flex-direction: row;
+    justify-content: center;
     margin: 10px auto;
+    flex-wrap: wrap;
     
 }
 
 .container-dias-do-evento article{
     padding: 50px 15px;
-    width: 100%;
-    height: 100%;
+    width: 700px;
+    /* height: 100%; */
     margin: 20px 20px;
     background-color: var(--cor-fundo-secundaria);
     border-radius: 15px;
@@ -192,7 +194,7 @@ body{
 
 .paragrafo-de-agendamento{
     color: var(--cor-texto-paragrafos);
-    padding: 15px;
+    padding: 10px;
     line-height: 1;
     text-align: center;
 }
@@ -233,6 +235,32 @@ footer{
 footer p{
     padding-bottom: 10px;
 
+}
+
+.eventos{
+    background-color: #282a36;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    /* padding-bottom: 15px */
+    
+}
+
+.sala{
+    display: flex;
+    justify-content: right;
+    background-color: white;
+    font-size: 12pt;
+    padding: 5px;
+    /* margin-bottom: 15px; */
+}
+
+.hora{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    font-size: 14pt;
+    padding: 5px;
 }
 
 
